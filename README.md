@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![Dashboard](screenshots/idsdashboard.png)
+![Dashboard](screenshots/idsdashboard1.png)
 
 </div>
 
