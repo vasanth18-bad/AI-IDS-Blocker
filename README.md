@@ -8,7 +8,7 @@
 ![Windows](https://img.shields.io/badge/Windows-Firewall-blue?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-### AI-Powered Intrusion Detection System with Auto IP Blocking
+### Real-Time Threat Detection & Auto-Blocking System
 
 </div>
 
